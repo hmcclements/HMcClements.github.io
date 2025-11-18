@@ -1,0 +1,52 @@
+body {
+  font-family: Times New Roman, sans-serif;
+  max-width: 70rem;
+  margin-left: 50px;
+  margin-right: 10px;
+}
+
+header {
+  background-color: darkblue;
+  font-size: 18px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-bottom: 15px;
+  text-align: center;
+  text-shadow: black;
+  color: floralwhite;
+}
+
+img { <div style="min-height:415px" id="datawrapper-vis-35UB0"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/35UB0/embed.js" charset="utf-8" data-target="#datawrapper-vis-35UB0"></script><noscript><img src="https://datawrapper.dwcdn.net/35UB0/full.png" alt="States with highest and lowest voter turnout by percentage - ages 18-29 (Column Chart)" /></noscript></div>
+  width: 100%;
+}
+
+.caption {
+  font-size: 20px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 5px
+}
+
+h1 {
+  font-style: bold;
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 1.5rem;
+}
+
+p {
+  font-size: 20px;
+}
+
+.otherimg { <div style="min-height:415px" id="datawrapper-vis-35UB0"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/35UB0/embed.js" charset="utf-8" data-target="#datawrapper-vis-35UB0"></script><noscript><img src="https://datawrapper.dwcdn.net/35UB0/full.png" alt="States with highest and lowest voter turnout by percentage - ages 18-29 (Column Chart)" /></noscript></div>
+  max-width: 50rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
